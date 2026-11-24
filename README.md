@@ -1,8 +1,8 @@
 # Hi, I'm Simran 👋
 
-### 🎓 CSE Student | 💻 Aspiring Data & AI Professional
+### 🎓 CSE Student 
 
-I'm a Computer Science Engineering student interested in **Data, AI, ML, and problem solving**.
+I'm a Computer Science Engineering student interested in **Data, AI/ML, and problem solving**.
 
 I enjoy building projects, learning new technologies, and improving my coding skills step by step.
 
@@ -10,9 +10,7 @@ I enjoy building projects, learning new technologies, and improving my coding sk
 
 ## 🚀 Currently Working On
 
-- 🧠 Data Structures & Algorithms in C++
-- 🐍 Python Programming
-- 💬 Online Debate Platform
+- 🧠 Data Structures & Algorithms in Java
 - 🤖 Exploring Data & AI
 
 ---
@@ -21,7 +19,6 @@ I enjoy building projects, learning new technologies, and improving my coding sk
 
 ### Languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
